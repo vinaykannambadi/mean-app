@@ -18,4 +18,4 @@ methodOverride = require('method-override');
          app.set('view engine', 'ejs');
      require('../app/routes/index.server.routes.js')(app);
       return app; 
-};
+}; 
