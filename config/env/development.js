@@ -1,3 +1,1 @@
-module.exports = function(){
-    //development environments settings
-}
+module.exports = { sessionSecret: 'developmentSessionSecret' };
